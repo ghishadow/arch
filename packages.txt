@@ -1,0 +1,9 @@
+# Fonts
+ttf-google-fonts-git
+otf-fira-code
+otf-hack
+
+# Apps
+atom-editor
+firefox-aurora
+n1
